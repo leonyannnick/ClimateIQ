@@ -65,7 +65,8 @@ Unterstützung weiterer SPS-Modelle und Controller.
 Integration mit Smart-Home-Systemen.
 Verbesserung der Steuerungsalgorithmen für maximale Effizienz.
 ## 📝 Lizenz
-Dieses Projekt steht unter der MIT-Lizenz. Weitere Informationen finden Sie in der Datei LICENSE.
+Dieses Projekt steht unter der GPL v3-Lizenz.
+Weitere Informationen finden Sie in der Datei LICENSE.
 
 ## 📩 Kontakt
 Wenn Sie Fragen, Feedback oder Vorschläge haben, können Sie sich gerne melden.
