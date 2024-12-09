@@ -2,10 +2,10 @@
 This repository will contain all files for the project. 
 **Please be patient until I have uploaded all files. This repository is under construction**
 
-CLimaIQ
+# CLimaIQ
 CLimaIQ ist ein Projekt zur intelligenten Steuerung eines Heizstabs mithilfe von Überschuss-Photovoltaikstrom (PV). Es kombiniert die Flexibilität eines Raspberry Pi mit der Zuverlässigkeit einer Siemens LOGO! SPS, um eine effiziente und kostensparende Lösung für die Nutzung von überschüssiger Solarenergie zu bieten.
 
-📖 Projektübersicht
+# 📖 Projektübersicht
 Das Ziel dieses Projekts ist es, überschüssige PV-Leistung zur Erwärmung von Wasser oder anderen Anwendungen zu nutzen, indem der Heizstab intelligent geregelt wird.
 
 Raspberry Pi: Übernimmt die Datenverarbeitung, Steuerungslogik und Kommunikation mit externen Systemen.
